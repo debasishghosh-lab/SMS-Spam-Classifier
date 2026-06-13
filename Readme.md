@@ -34,3 +34,6 @@ to classify SMS messages as Spam or Ham.
 - Logistic Regression
 - Word Embeddings
 - BERT Transformer Models
+
+## 🚀 Live Demo: 
+https://sms-spam-classifier-v6fvajruto4hmxty6jz4uj.streamlit.app/
